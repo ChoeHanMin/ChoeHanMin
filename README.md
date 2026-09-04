@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1F2A44,100:B8862F&text=Choi%20Hanmin&fontColor=FFFFFF&fontSize=55&animation=fadeIn&desc=Soodal%20Games%20%C2%B7%20Indie%20Game%20Developer&descAlignY=62&descSize=20&fontAlignY=35" />
 
 <a href="https://www.choihanmin.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=B8862F&center=true&vCenter=true&width=800&height=50&lines=CS+Student+%40+HUFS;Running+indie+studio+Soodal+Games;7+games+shipped+%C2%B7+Google+Play+%26+Steam;15%2B+activities+%C2%B7+20%2B+organizations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=B8862F&center=true&vCenter=true&width=800&height=50&lines=CS+Student+%40+HUFS;Running+indie+studio+Soodal+Games;7+games+shipped+%C2%B7+Google+Play+%26+Steam;23%2B+activities+%C2%B7+21%2B+organizations" />
 </a>
 
 <p>
@@ -141,6 +141,24 @@
 
 </td>
 </tr>
+<tr>
+<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/request-app.jpg" width="160"/></td>
+<td>
+
+### 최한민에게 요청하기
+EmailJS·Firebase Firestore·Google Apps Script를 연동한 개인 웹 요청 서비스. 애니메이션 SVG 캐릭터, 다크/라이트 모드 지원. 프론트엔드부터 백엔드 연동까지 단독 개발.
+
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/tappy-friends.jpg" width="160"/></td>
+<td>
+
+### Tappy Friends
+Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든 캐릭터 언락 로직을 순수 JavaScript로 직접 구현, GitHub Pages로 배포.
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -148,7 +166,7 @@
 # 🛠️ Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,electron,androidstudio,python,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python,electron,androidstudio,figma,ai,ps,git,github&theme=dark" />
 </div>
 
 <br>
@@ -158,11 +176,24 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/%F0%9F%8E%AE_GAMES_SHIPPED-7-1F2A44?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%A4%9D_COLLABORATIONS-20%2B-B8862F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8B_ACTIVITIES-15%2B-1F2A44?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF_PLATFORMS-PLAY_%7C_STEAM-B8862F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%9D_ORGANIZATIONS-21%2B-B8862F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8B_ACTIVITIES-23%2B-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%8F_ENGLISH-NATIVE-B8862F?style=for-the-badge" />
 
 </div>
+
+<div align="center">
+<a href="https://choehanmin.github.io/portfolio/portfolio.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84_VIEW_FULL_RESUME-1F2A44?style=for-the-badge" /></a>
+</div>
+
+<br>
+
+# 🏅 Awards & Certifications
+
+- 🥈 한국외국어대학교 여행 공모전 **은상**
+- 🎓 하나금융그룹 '하나 소셜벤처 유니버시티 창업 심화 교육' 수료
+- 🌾 농림축산식품부·한국농어촌공사 농촌 프로그램 전체 **2위** 수료
+- 💬 TOEIC 810 · 한국외국어대학교 영어특별과정 수료 (99.00/100)
 
 <br>
 
@@ -197,7 +228,7 @@
 
 # 🤝 Collaborations
 
-**삼성, LG CNS** 등 **20+ 조직**과 캠퍼스 프로그램·서포터즈 활동을 함께해왔고, **15건 이상**의 대내외 활동/자원봉사 이력이 있습니다.
+**하나금융그룹, 삼성전자, LG CNS** 등 대기업 서포터즈부터 스타트업, 협회, 국제 NGO, 지자체까지 — 업종과 규모를 가리지 않는 **21+ 조직**과 함께 일해왔고, **23건 이상**의 대내외 활동/자원봉사 이력이 있습니다.
 
 자세한 내용은 **[Activities & Volunteer](https://www.choihanmin.com/portfolio/#activities)** 에서 확인하실 수 있어요.
 
