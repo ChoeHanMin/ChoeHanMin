@@ -42,8 +42,8 @@
 ### 미니법정 <sub>Mini Court</sub> <sup>`v2.x · bilingual`</sup>
 55개 사건, 한/영 지원, 항소심 모드·데일리 챌린지·경력 XP 시스템을 갖춘 법정 시뮬레이션.
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.choehanmin.minicourt"><img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/></a>
-<a href="https://store.steampowered.com/app/5113110"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Available on Steam"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.choehanmin.minicourt"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/></a>
+<a href="https://store.steampowered.com/app/5113110"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Available on Steam" height="45"/></a>
 
 </td>
 </tr>
@@ -54,8 +54,8 @@
 ### Stealth Ops <sup>`v4.3.0.0`</sup>
 9종 무기, 스테이지별 6개 미니게임, 듀얼 스테이지 맵 구조의 2D 탑다운 잠입 액션. Electron 데스크톱 빌드 병행.
 <br>
-<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/>
-<img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Available on Steam"/>
+<a href="https://play.google.com/store/apps/details?id=com.choehanmin.stealthops"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/></a>
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Available on Steam" height="45"/>
 
 </td>
 </tr>
@@ -66,8 +66,8 @@
 ### Time Heist 24
 시간이 곧 체력이자 행동력이자 점수가 되는 턴제 전략 게임.
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.choehanmin.timeheist24"><img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/></a>
-<a href="https://github.com/ChoeHanMin/time-heist"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source on GitHub"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.choehanmin.timeheist24"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/></a>
+<a href="https://github.com/ChoeHanMin/time-heist"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub" height="45"/></a>
 
 </td>
 </tr>
@@ -78,7 +78,7 @@
 ### 자리 사냥 <sub>Seat Hunter</sub>
 지하철 승객을 관찰해 곧 내릴 사람을 맞히는 관찰력 캐주얼 게임.
 <br>
-<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/>
+<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/>
 
 </td>
 </tr>
@@ -89,7 +89,7 @@
 ### Color Debt
 같은 색 얼굴을 합치고 터뜨려 빚을 늘리지 않는 캐주얼 퍼즐 게임.
 <br>
-<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/>
+<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/>
 
 </td>
 </tr>
@@ -100,7 +100,7 @@
 ### Maze Escape
 시드 기반 랜덤 맵과 안개 시스템의 미로 탈출형 캐주얼 게임. 업적·데일리 챌린지 포함.
 <br>
-<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/>
+<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/>
 
 </td>
 </tr>
@@ -111,7 +111,7 @@
 ### Stress Smash
 가볍게 스트레스를 날리는 타격감 중심 캐주얼 게임.
 <br>
-<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/>
+<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/>
 
 </td>
 </tr>
