@@ -1,20 +1,20 @@
 <a id="top"></a>
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1F2A44,100:B8862F&text=Choi%20Hanmin&fontColor=FFFFFF&fontSize=55&animation=fadeIn&desc=Soodal%20Games%20%C2%B7%20Indie%20Game%20Developer&descAlignY=62&descSize=20&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1F2A44,100:B8862F&text=Choi%20Hanmin&fontColor=FFFFFF&fontSize=55&animation=fadeIn&desc=Soodal%20Games%20%C2%B7%20Indie%20Game%20Developer&descAlignY=62&descSize=20&fontAlignY=35" alt="Choi Hanmin — Soodal Games, Indie Game Developer" />
 
 <a href="https://www.choihanmin.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=B8862F&center=true&vCenter=true&width=800&height=50&lines=CS+Student+%40+HUFS;Running+indie+studio+Soodal+Games;7+games+shipped+%C2%B7+Google+Play+%26+Steam;23%2B+activities+%C2%B7+21%2B+organizations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=B8862F&center=true&vCenter=true&width=800&height=50&lines=CS+Student+%40+HUFS;Running+indie+studio+Soodal+Games;7+games+shipped+%C2%B7+Google+Play+%26+Steam;23%2B+activities+%C2%B7+21%2B+organizations" alt="CS Student at HUFS, running indie studio Soodal Games, 7 games shipped on Google Play and Steam, 23+ activities and 21+ organizations" />
 </a>
 
 <p>
-<a href="https://www.choihanmin.com/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-1F2A44?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.soodalgames.com/"><img src="https://img.shields.io/badge/%F0%9F%8E%AE_SOODAL_GAMES-B8862F?style=for-the-badge&logoColor=white" /></a>
-<a href="https://m.blog.naver.com/choehanmin"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
-<a href="https://instagram.com/dae.hanmin.guk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.choihanmin.com/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-1F2A44?style=for-the-badge&logoColor=white" alt="Portfolio site" /></a>
+<a href="https://www.soodalgames.com/"><img src="https://img.shields.io/badge/%F0%9F%8E%AE_SOODAL_GAMES-B8862F?style=for-the-badge&logoColor=white" alt="Soodal Games studio site" /></a>
+<a href="https://m.blog.naver.com/choehanmin"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog" /></a>
+<a href="https://instagram.com/dae.hanmin.guk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ChoeHanMin&label=Profile%20Views&color=1F2A44&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ChoeHanMin&label=Profile%20Views&color=1F2A44&style=for-the-badge" alt="Profile view count" />
 
 <sub><b>🇰🇷 한국어</b> (current) · <a href="#english-summary">🇺🇸 English ↓</a></sub>
 
@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal.svg" alt="terminal" />
+<img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal.svg" alt="Terminal window: whoami shows Choi Hanmin, Computer Engineering & Science at HUFS, running Soodal Games, 7 games shipped, 23+ activities with 21+ organizations" />
 </div>
 
 <div align="center">
@@ -36,71 +36,71 @@
 
 <table>
 <tr>
-<td align="center" width="180"><img src="https://choehanmin.github.io/images/games/web/minicourt.jpg" width="160"/></td>
+<td align="center" width="180"><img src="https://choehanmin.github.io/images/games/web/minicourt.jpg" width="160" alt="Mini Court gameplay screenshot"/></td>
 <td>
 
 ### 미니법정 <sub>Mini Court</sub> <sup>`v2.x · bilingual`</sup>
 55개 사건, 한/영 지원, 항소심 모드·데일리 챌린지·경력 XP 시스템을 갖춘 법정 시뮬레이션.
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.choehanmin.minicourt"><img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white"/></a>
-<a href="https://store.steampowered.com/app/5113110"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.choehanmin.minicourt"><img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/></a>
+<a href="https://store.steampowered.com/app/5113110"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Available on Steam"/></a>
 
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/images/games/web/stealthops.jpg" width="160"/></td>
+<td align="center"><img src="https://choehanmin.github.io/images/games/web/stealthops.jpg" width="160" alt="Stealth Ops gameplay screenshot"/></td>
 <td>
 
 ### Stealth Ops <sup>`v4.3.0.0`</sup>
 9종 무기, 스테이지별 6개 미니게임, 듀얼 스테이지 맵 구조의 2D 탑다운 잠입 액션. Electron 데스크톱 빌드 병행.
 <br>
-<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white"/>
-<img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/>
+<img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Available on Steam"/>
 
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/time-heist.jpg" width="160"/></td>
+<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/time-heist.jpg" width="160" alt="Time Heist 24 gameplay screenshot"/></td>
 <td>
 
 ### Time Heist 24
 시간이 곧 체력이자 행동력이자 점수가 되는 턴제 전략 게임.
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.choehanmin.timeheist24"><img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white"/></a>
-<a href="https://github.com/ChoeHanMin/time-heist"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.choehanmin.timeheist24"><img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/></a>
+<a href="https://github.com/ChoeHanMin/time-heist"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source on GitHub"/></a>
 
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/images/games/web/seathunter.jpg" width="160"/></td>
+<td align="center"><img src="https://choehanmin.github.io/images/games/web/seathunter.jpg" width="160" alt="Seat Hunter gameplay screenshot"/></td>
 <td>
 
 ### 자리 사냥 <sub>Seat Hunter</sub>
 지하철 승객을 관찰해 곧 내릴 사람을 맞히는 관찰력 캐주얼 게임.
 <br>
-<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/>
 
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/images/games/web/colordebt.jpg" width="160"/></td>
+<td align="center"><img src="https://choehanmin.github.io/images/games/web/colordebt.jpg" width="160" alt="Color Debt gameplay screenshot"/></td>
 <td>
 
 ### Color Debt
 같은 색 얼굴을 합치고 터뜨려 빚을 늘리지 않는 캐주얼 퍼즐 게임.
 <br>
-<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/>
 
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/maze-escape.jpg" width="160"/></td>
+<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/maze-escape.jpg" width="160" alt="Maze Escape gameplay screenshot"/></td>
 <td>
 
 ### Maze Escape
 시드 기반 랜덤 맵과 안개 시스템의 미로 탈출형 캐주얼 게임. 업적·데일리 챌린지 포함.
 <br>
-<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/>
 
 </td>
 </tr>
@@ -111,7 +111,7 @@
 ### Stress Smash
 가볍게 스트레스를 날리는 타격감 중심 캐주얼 게임.
 <br>
-<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Play-4285F4?style=flat-square&logo=google-play&logoColor=white" alt="Available on Google Play"/>
 
 </td>
 </tr>
@@ -127,7 +127,7 @@
 
 <table>
 <tr>
-<td align="center" width="180"><img src="https://choehanmin.github.io/portfolio/shots/tutogen.jpg" width="160"/></td>
+<td align="center" width="180"><img src="https://choehanmin.github.io/portfolio/shots/tutogen.jpg" width="160" alt="TutoGen project screenshot"/></td>
 <td>
 
 ### TutoGen
@@ -136,7 +136,7 @@
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/scene-search.jpg" width="160"/></td>
+<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/scene-search.jpg" width="160" alt="Scene Search project screenshot"/></td>
 <td>
 
 ### Scene Search <sub>씬 서치</sub>
@@ -145,7 +145,7 @@
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/request-app.jpg" width="160"/></td>
+<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/request-app.jpg" width="160" alt="최한민에게 요청하기 project screenshot"/></td>
 <td>
 
 ### 최한민에게 요청하기
@@ -154,7 +154,7 @@ EmailJS·Firebase Firestore·Google Apps Script를 연동한 개인 웹 요청 �
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/tappy-friends.jpg" width="160"/></td>
+<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/tappy-friends.jpg" width="160" alt="Tappy Friends gameplay screenshot"/></td>
 <td>
 
 ### Tappy Friends
@@ -169,7 +169,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 # 🛠️ Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python,electron,androidstudio,figma,ai,ps,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python,electron,androidstudio,figma,ai,ps,git,github&theme=dark" alt="Tech stack: HTML, CSS, JavaScript, C++, C, Python, Electron, Android Studio, Figma, Illustrator, Photoshop, Git, GitHub" />
 </div>
 
 <br>
@@ -178,15 +178,15 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%AE_GAMES_SHIPPED-7-1F2A44?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%A4%9D_ORGANIZATIONS-21%2B-B8862F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8B_ACTIVITIES-23%2B-1F2A44?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%8C%8F_ENGLISH-NATIVE-B8862F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%AE_GAMES_SHIPPED-7-1F2A44?style=for-the-badge" alt="7 games shipped" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%9D_ORGANIZATIONS-21%2B-B8862F?style=for-the-badge" alt="21+ organizations collaborated with" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8B_ACTIVITIES-23%2B-1F2A44?style=for-the-badge" alt="23+ activities" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%8F_ENGLISH-NATIVE-B8862F?style=for-the-badge" alt="Native-level English" />
 
 </div>
 
 <div align="center">
-<a href="https://choehanmin.github.io/portfolio/portfolio.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84_VIEW_FULL_RESUME-1F2A44?style=for-the-badge" /></a>
+<a href="https://choehanmin.github.io/portfolio/portfolio.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84_VIEW_FULL_RESUME-1F2A44?style=for-the-badge" alt="View full résumé PDF" /></a>
 </div>
 
 <br>
@@ -203,14 +203,14 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 # 📊 GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=ChoeHanMin&hide_border=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=ChoeHanMin&hide_border=true&theme=tokyonight" alt="GitHub commit streak stats for ChoeHanMin" />
 </div>
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating through the GitHub contribution grid" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
 
@@ -251,6 +251,16 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 <br>
 
+# 📱 Scan Me
+
+<div align="center">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&color=1F2A44&data=https://www.choihanmin.com/" alt="QR code linking to choihanmin.com portfolio site" width="150" />
+<br>
+<sub><a href="https://www.choihanmin.com/">choihanmin.com</a> 으로 바로 연결</sub>
+</div>
+
+<br>
+
 ---
 
 <a id="english-summary"></a>
@@ -278,6 +288,6 @@ I've shipped **7 games** to Google Play & Steam (single HTML/CSS/JS PWA → TWA/
 <br>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1F2A44,100:B8862F&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1F2A44,100:B8862F&section=footer" alt="" />
 <sub>© 2026 Choi Hanmin · Soodal Games</sub>
 </div>
