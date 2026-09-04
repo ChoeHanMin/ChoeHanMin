@@ -153,6 +153,13 @@ hanmin@soodal:~$ echo $DAY_JOB
 삼성, LG CNS 등 **20+ 조직**과 캠퍼스 프로그램·서포터즈 활동을 함께해왔고, **15건 이상**의 대내외 활동/자원봉사 이력이 있습니다.
 자세한 내용은 [Activities & Volunteer](https://www.choihanmin.com/portfolio/#activities)에서 확인하실 수 있어요.
 
+## 📰 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center"><sub>업데이트되면 <a href="https://m.blog.naver.com/choehanmin">Naver Blog</a>에서 자동으로 최신 글 5개가 여기 채워집니다.</sub></div>
+
 <br>
 
 <div align="center">
