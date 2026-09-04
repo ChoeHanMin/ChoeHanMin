@@ -78,7 +78,7 @@
 ### 자리 사냥 <sub>Seat Hunter</sub>
 지하철 승객을 관찰해 곧 내릴 사람을 맞히는 관찰력 캐주얼 게임.
 <br>
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/>
+<a href="https://play.google.com/store/apps/details?id=com.choehanmin.seathunter"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/></a>
 
 </td>
 </tr>
@@ -89,7 +89,7 @@
 ### Color Debt
 같은 색 얼굴을 합치고 터뜨려 빚을 늘리지 않는 캐주얼 퍼즐 게임.
 <br>
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/>
+<a href="https://play.google.com/store/apps/details?id=com.choehanmin.colordebt"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/></a>
 
 </td>
 </tr>
@@ -100,7 +100,7 @@
 ### Maze Escape
 시드 기반 랜덤 맵과 안개 시스템의 미로 탈출형 캐주얼 게임. 업적·데일리 챌린지 포함.
 <br>
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/>
+<a href="https://play.google.com/store/apps/details?id=com.choehanmin.mazeescape"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/></a>
 
 </td>
 </tr>
@@ -111,7 +111,7 @@
 ### Stress Smash
 가볍게 스트레스를 날리는 타격감 중심 캐주얼 게임.
 <br>
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/>
+<a href="https://play.google.com/store/apps/details?id=com.choehanmin.stresssmash"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="45"/></a>
 
 </td>
 </tr>
