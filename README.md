@@ -128,16 +128,16 @@ hanmin@soodal:~$ echo $DAY_JOB
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChoeHanMin&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoeHanMin&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=ChoeHanMin&hide_border=true&theme=tokyonight" />
 </div>
 
+## 🏆 Highlights
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ChoeHanMin&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%AE_Games_Shipped-7-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%9D_Collaborations-20%2B-B8862F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8B_Activities-15%2B-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8F_Platforms-Google_Play_%7C_Steam-B8862F?style=for-the-badge" />
 </div>
 
 <div align="center">
