@@ -3,12 +3,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1F2A44,100:B8862F&text=Choi%20Hanmin&fontColor=FFFFFF&fontSize=55&animation=fadeIn&desc=Soodal%20Games%20%C2%B7%20Indie%20Game%20Developer&descAlignY=62&descSize=20&fontAlignY=35" />
 
 <a href="https://www.choihanmin.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=B8862F&center=true&vCenter=true&width=650&lines=CS+Student+%40+HUFS;Running+indie+studio+Soodal+Games;7+games+shipped+%C2%B7+Google+Play+%26+Steam;15%2B+activities+%C2%B7+20%2B+organizations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=B8862F&center=true&vCenter=true&width=800&height=50&lines=CS+Student+%40+HUFS;Running+indie+studio+Soodal+Games;7+games+shipped+%C2%B7+Google+Play+%26+Steam;15%2B+activities+%C2%B7+20%2B+organizations" />
 </a>
 
 <p>
-<a href="https://www.choihanmin.com/"><img src="https://img.shields.io/badge/Portfolio-choihanmin.com-1F2A44?style=for-the-badge" /></a>
-<a href="https://www.soodalgames.com/"><img src="https://img.shields.io/badge/Studio-Soodal_Games-B8862F?style=for-the-badge" /></a>
+<a href="https://www.choihanmin.com/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-1F2A44?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.soodalgames.com/"><img src="https://img.shields.io/badge/%F0%9F%8E%AE_SOODAL_GAMES-B8862F?style=for-the-badge&logoColor=white" /></a>
 <a href="https://m.blog.naver.com/choehanmin"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
 <a href="https://instagram.com/dae.hanmin.guk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -22,21 +22,26 @@
 ```
 
 hanmin@soodal:~$ whoami
+
 Choi Hanmin (최한민) — Computer Engineering & Science, HUFS
 인디 게임 스튜디오 Soodal Games 운영 · 7개 게임 출시
 동시에 15+ 대내외 활동, 20+ 조직과 협업 중
 
+
 hanmin@soodal:~$ echo $DAY_JOB
+
 학교에서는 컴퓨터공학을, 밤에는 게임을 만듭니다.
 단일 HTML/CSS/JS PWA → TWA/Electron 빌드 파이프라인으로 Google Play·Steam 동시 출시.
 
 ```
 
-## 🎮 Shipped Games
+<br>
+
+# 🎮 Shipped Games
 
 <table>
 <tr>
-<td align="center" width="140"><img src="https://choehanmin.github.io/images/games/web/minicourt.jpg" width="120"/></td>
+<td align="center" width="180"><img src="https://choehanmin.github.io/images/games/web/minicourt.jpg" width="160"/></td>
 <td>
 
 ### 미니법정 <sub>Mini Court</sub> <sup>`v2.x · bilingual`</sup>
@@ -48,7 +53,7 @@ hanmin@soodal:~$ echo $DAY_JOB
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/images/games/web/stealthops.jpg" width="120"/></td>
+<td align="center"><img src="https://choehanmin.github.io/images/games/web/stealthops.jpg" width="160"/></td>
 <td>
 
 ### Stealth Ops <sup>`v4.3.0.0`</sup>
@@ -60,7 +65,7 @@ hanmin@soodal:~$ echo $DAY_JOB
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/time-heist.jpg" width="120"/></td>
+<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/time-heist.jpg" width="160"/></td>
 <td>
 
 ### Time Heist 24
@@ -72,7 +77,7 @@ hanmin@soodal:~$ echo $DAY_JOB
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/images/games/web/seathunter.jpg" width="120"/></td>
+<td align="center"><img src="https://choehanmin.github.io/images/games/web/seathunter.jpg" width="160"/></td>
 <td>
 
 ### 자리 사냥 <sub>Seat Hunter</sub>
@@ -83,7 +88,7 @@ hanmin@soodal:~$ echo $DAY_JOB
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/images/games/web/colordebt.jpg" width="120"/></td>
+<td align="center"><img src="https://choehanmin.github.io/images/games/web/colordebt.jpg" width="160"/></td>
 <td>
 
 ### Color Debt
@@ -94,7 +99,7 @@ hanmin@soodal:~$ echo $DAY_JOB
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/maze-escape.jpg" width="120"/></td>
+<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/maze-escape.jpg" width="160"/></td>
 <td>
 
 ### Maze Escape
@@ -119,25 +124,33 @@ hanmin@soodal:~$ echo $DAY_JOB
 
 <div align="center"><sub>전체 스크린샷·설명은 <a href="https://www.choihanmin.com/">포트폴리오 사이트</a>에서 확인하세요.</sub></div>
 
-## 🛠️ Stack
+<br>
+
+# 🛠️ Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,electron,androidstudio,python,git,github,figma&theme=dark" />
 </div>
 
-## 📊 GitHub Stats
+<br>
+
+# 🏆 Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%8E%AE_GAMES_SHIPPED-7-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%9D_COLLABORATIONS-20%2B-B8862F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8B_ACTIVITIES-15%2B-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF_PLATFORMS-PLAY_%7C_STEAM-B8862F?style=for-the-badge" />
+
+</div>
+
+<br>
+
+# 📊 GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=ChoeHanMin&hide_border=true&theme=tokyonight" />
-</div>
-
-## 🏆 Highlights
-
-<div align="center">
-<img src="https://img.shields.io/badge/%F0%9F%8E%AE_Games_Shipped-7-1F2A44?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%A4%9D_Collaborations-20%2B-B8862F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8B_Activities-15%2B-1F2A44?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8F_Platforms-Google_Play_%7C_Steam-B8862F?style=for-the-badge" />
 </div>
 
 <div align="center">
@@ -148,12 +161,17 @@ hanmin@soodal:~$ echo $DAY_JOB
 </picture>
 </div>
 
-## 🤝 Collaborations
+<br>
 
-삼성, LG CNS 등 **20+ 조직**과 캠퍼스 프로그램·서포터즈 활동을 함께해왔고, **15건 이상**의 대내외 활동/자원봉사 이력이 있습니다.
-자세한 내용은 [Activities & Volunteer](https://www.choihanmin.com/portfolio/#activities)에서 확인하실 수 있어요.
+# 🤝 Collaborations
 
-## 📰 Latest Blog Posts
+**삼성, LG CNS** 등 **20+ 조직**과 캠퍼스 프로그램·서포터즈 활동을 함께해왔고, **15건 이상**의 대내외 활동/자원봉사 이력이 있습니다.
+
+자세한 내용은 **[Activities & Volunteer](https://www.choihanmin.com/portfolio/#activities)** 에서 확인하실 수 있어요.
+
+<br>
+
+# 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
