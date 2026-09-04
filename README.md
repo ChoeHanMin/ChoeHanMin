@@ -1,3 +1,4 @@
+<a id="top"></a>
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1F2A44,100:B8862F&text=Choi%20Hanmin&fontColor=FFFFFF&fontSize=55&animation=fadeIn&desc=Soodal%20Games%20%C2%B7%20Indie%20Game%20Developer&descAlignY=62&descSize=20&fontAlignY=35" />
@@ -14,6 +15,8 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ChoeHanMin&label=Profile%20Views&color=1F2A44&style=for-the-badge" />
+
+<sub><b>🇰🇷 한국어</b> (current) · <a href="#english-summary">🇺🇸 English ↓</a></sub>
 
 </div>
 
@@ -240,6 +243,32 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center"><sub>업데이트되면 <a href="https://m.blog.naver.com/choehanmin">Naver Blog</a>에서 자동으로 최신 글 5개가 여기 채워집니다.</sub></div>
+
+<br>
+
+---
+
+<a id="english-summary"></a>
+# 🇺🇸 English Summary
+
+**Choi Hanmin** — Computer Engineering & Science student at Hankuk University of Foreign Studies (HUFS), running the indie game studio **Soodal Games**.
+
+I've shipped **7 games** to Google Play & Steam (single HTML/CSS/JS PWA → TWA/Electron build pipeline), while working as a leader or core member across **23+ activities** with **21+ organizations** — from Samsung, Hana Financial Group and LG CNS corporate ambassador programs to startups, NGOs, and government-affiliated institutions.
+
+**Key strengths**
+- 🚀 **Execution, idea to launch** — designed, built, and shipped 7 games solo end-to-end (planning → art/sound → mobile packaging → store listing → marketing), plus a full AI MVP (TutoGen) from market research to demo pitch.
+- 🗣️ **Proven leadership & communication** — team lead & presenter for a 7-person team at Samsung Galaxy Campus Supporters (top-rated team lead), teaching assistant for a university programming course.
+- ⚖️ **Balances engineering and product thinking** — comfortable in Python/C++/JavaScript and AI pipelines (MediaPipe · CLIP · FAISS · YOLOv8), while also owning end-to-end product design and pitch decks.
+- 🌏 **Native-level English** — 2 years in Canada, 6 months in South Africa; TOEIC 810; English instructor at GTKEC Academy; 1:1 English coach for North Korean defectors via LiNK's LELP program.
+- 🤝 **Trusted across industries** — finance, education, IT, retail, nonprofit, and public sector organizations alike.
+
+**Tech stack:** Python · C++ · C · JavaScript · HTML/CSS · Electron · Android (TWA) · MediaPipe/CLIP/FAISS/YOLOv8 · Figma · Illustrator · Photoshop · Git/GitHub
+
+📄 [Full résumé (PDF)](https://choehanmin.github.io/portfolio/portfolio.pdf) · 🌐 [Portfolio site](https://www.choihanmin.com/) · 🎮 [Soodal Games](https://www.soodalgames.com/)
+
+<div align="center">
+<sub><a href="#top">↑ back to top / 한국어로 돌아가기</a></sub>
+</div>
 
 <br>
 
