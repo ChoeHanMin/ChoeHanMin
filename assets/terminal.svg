@@ -1,0 +1,42 @@
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+  <rect width="900" height="340" rx="14" fill="#171A26"/>
+
+  <circle cx="30" cy="28" r="7" fill="#ff5f57"/>
+  <circle cx="54" cy="28" r="7" fill="#febc2e"/>
+  <circle cx="78" cy="28" r="7" fill="#28c840"/>
+  <text x="450" y="33" text-anchor="middle" font-size="14" fill="#B9B4A8">hanmin@soodal — zsh</text>
+  <line x1="0" y1="50" x2="900" y2="50" stroke="#0F1119" stroke-width="2"/>
+
+  <text x="28" y="90" font-size="19">
+    <tspan fill="#5FB88F">~$</tspan>
+    <tspan fill="#EDE8DD" dx="8">whoami</tspan>
+  </text>
+
+  <text x="28" y="126" font-size="18" fill="#B9B4A8">
+    <tspan font-weight="700" fill="#EDE8DD">Choi Hanmin (최한민)</tspan>
+    <tspan> — Computer Engineering &amp; Science, HUFS</tspan>
+  </text>
+  <text x="28" y="160" font-size="18" fill="#B9B4A8">
+    <tspan>인디 게임 스튜디오 </tspan>
+    <tspan fill="#E3A548">Soodal Games</tspan>
+    <tspan> 운영 · 7개 게임 출시</tspan>
+  </text>
+  <text x="28" y="194" font-size="18" fill="#B9B4A8">
+    <tspan>동시에 </tspan>
+    <tspan fill="#5FB88F">15+ 대내외 활동</tspan>
+    <tspan>, 20+ 조직과 협업 중</tspan>
+  </text>
+
+  <text x="28" y="240" font-size="19">
+    <tspan fill="#5FB88F">~$</tspan>
+    <tspan fill="#EDE8DD" dx="8">echo</tspan>
+    <tspan fill="#EDE8DD" dx="8">$DAY_JOB</tspan>
+  </text>
+
+  <text x="28" y="276" font-size="18" fill="#B9B4A8">학교에서는 컴퓨터공학을, 밤에는 게임을 만듭니다.</text>
+  <text x="28" y="304" font-size="18" fill="#B9B4A8">단일 HTML/CSS/JS PWA → TWA/Electron 빌드 파이프라인으로 Google Play·Steam 동시 출시.</text>
+
+  <rect x="28" y="314" width="10" height="18" fill="#E3A548">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

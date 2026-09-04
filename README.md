@@ -19,21 +19,13 @@
 
 <br>
 
-```
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal.svg" alt="terminal" />
+</div>
 
-hanmin@soodal:~$ whoami
-
-Choi Hanmin (최한민) — Computer Engineering & Science, HUFS
-인디 게임 스튜디오 Soodal Games 운영 · 7개 게임 출시
-동시에 15+ 대내외 활동, 20+ 조직과 협업 중
-
-
-hanmin@soodal:~$ echo $DAY_JOB
-
-학교에서는 컴퓨터공학을, 밤에는 게임을 만듭니다.
-단일 HTML/CSS/JS PWA → TWA/Electron 빌드 파이프라인으로 Google Play·Steam 동시 출시.
-
-```
+<div align="center">
+<sub>🚀 <b>Currently:</b> 해커스 해블리 17기 서포터즈 — 강의·교재 학습 후기 블로그 연재 중</sub>
+</div>
 
 <br>
 
@@ -126,6 +118,33 @@ hanmin@soodal:~$ echo $DAY_JOB
 
 <br>
 
+# 🧪 Other Projects
+
+게임 외에도 AI·웹 프로젝트를 만들어왔습니다.
+
+<table>
+<tr>
+<td align="center" width="180"><img src="https://choehanmin.github.io/portfolio/shots/tutogen.jpg" width="160"/></td>
+<td>
+
+### TutoGen
+증권 초보 투자자를 위한 실시간 화면 가이드 확장 프로그램. 하나 소셜벤처 유니버시티 5기, 프론트엔드·UX 담당.
+
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/scene-search.jpg" width="160"/></td>
+<td>
+
+### Scene Search <sub>씬 서치</sub>
+자세·구도 분석, NLP, 스케치 입력을 결합한 멀티모달 사진 검색 시스템. AI 경진대회 출품작.
+
+</td>
+</tr>
+</table>
+
+<br>
+
 # 🛠️ Stack
 
 <div align="center">
@@ -159,6 +178,19 @@ hanmin@soodal:~$ echo $DAY_JOB
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
+
+<br>
+
+# ⭐ Star History
+
+<div align="center">
+<a href="https://star-history.com/#ChoeHanMin/choehanmin.github.io&ChoeHanMin/mini-court&ChoeHanMin/time-heist&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ChoeHanMin/choehanmin.github.io,ChoeHanMin/mini-court,ChoeHanMin/time-heist&type=Date&theme=dark" />
+    <img src="https://api.star-history.com/svg?repos=ChoeHanMin/choehanmin.github.io,ChoeHanMin/mini-court,ChoeHanMin/time-heist&type=Date" alt="Star History Chart" width="600" />
+  </picture>
+</a>
 </div>
 
 <br>
