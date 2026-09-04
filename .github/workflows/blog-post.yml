@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: pull latest posts from Naver blog RSS
-        uses: gautamkrishnar/blog-post-workflow@v2
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://rss.blog.naver.com/choehanmin.xml"
           max_post_count: 5
