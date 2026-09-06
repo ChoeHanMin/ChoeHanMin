@@ -39,4 +39,15 @@
   <rect x="28" y="314" width="10" height="18" fill="#E3A548">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
+
+  <!-- easter egg: tiny pixel controller drifting across the bottom -->
+  <g>
+    <animateMotion path="M 0,0 H 780" dur="14s" repeatCount="indefinite"/>
+    <g transform="translate(40,318)" opacity="0.85">
+      <rect x="0" y="0" width="22" height="12" rx="4" fill="#EDE8DD"/>
+      <rect x="4" y="4" width="4" height="4" fill="#171A26"/>
+      <rect x="14" y="3" width="2.5" height="2.5" fill="#E3574C"/>
+      <rect x="18" y="3" width="2.5" height="2.5" fill="#5FB88F"/>
+    </g>
+  </g>
 </svg>

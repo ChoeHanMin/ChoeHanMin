@@ -16,6 +16,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=ChoeHanMin&label=Profile%20Views&color=1F2A44&style=for-the-badge" alt="Profile view count" />
 
+<p>
+<a href="https://choehanmin.github.io/request/"><img src="https://img.shields.io/badge/%F0%9F%93%AC_GET_IN_TOUCH-E3A548?style=for-the-badge&logoColor=1F2A44" alt="Get in touch" /></a>
+</p>
+
 <sub><b>🇰🇷 한국어</b> (current) · <a href="#english-summary">🇺🇸 English ↓</a></sub>
 
 </div>
@@ -23,7 +27,10 @@
 <br>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal.svg" alt="Terminal window: whoami shows Choi Hanmin, Computer Engineering & Science at HUFS, running Soodal Games, 7 games shipped, 23+ activities with 21+ organizations" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal.svg" alt="Terminal window: whoami shows Choi Hanmin, Computer Engineering & Science at HUFS, running Soodal Games, 7 games shipped, 23+ activities with 21+ organizations" />
+</picture>
 </div>
 
 <div align="center">
@@ -174,6 +181,22 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 <br>
 
+# 📈 Career Timeline
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/timeline.svg" alt="Career timeline: 2020 Soodal Games founded, 2022-23 military service, 2023 TOEIC 810, 2026.03 Samsung Galaxy Campus Supporters and TA, 2026.07 TutoGen at Hana Social Venture University, now shipped 7 games with 23+ activities and 21+ organizations" />
+</div>
+
+<br>
+
+# 📊 Self-Assessed Skills
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/radar.svg" alt="Self-assessed skills radar chart: Execution 95, Leadership 85, Technical 80, Planning 85, Communication 92" width="560" />
+</div>
+
+<br>
+
 # 🏆 Highlights
 
 <div align="center">
@@ -197,6 +220,37 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 - 🎓 하나금융그룹 '하나 소셜벤처 유니버시티 창업 심화 교육' 수료
 - 🌾 농림축산식품부·한국농어촌공사 농촌 프로그램 전체 **2위** 수료
 - 💬 TOEIC 810 · 한국외국어대학교 영어특별과정 수료 (99.00/100)
+
+<br>
+
+# 🏢 Trusted By
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-하나금융그룹-1F2A44?style=flat-square" alt="하나금융그룹" />
+<img src="https://img.shields.io/badge/-삼성전자-1F2A44?style=flat-square" alt="삼성전자" />
+<img src="https://img.shields.io/badge/-LG_CNS-1F2A44?style=flat-square" alt="LG CNS" />
+<img src="https://img.shields.io/badge/-서울시-B8862F?style=flat-square" alt="서울시" />
+<img src="https://img.shields.io/badge/-LiNK-B8862F?style=flat-square" alt="LiNK" />
+<img src="https://img.shields.io/badge/-한국특수판매공제조합-B8862F?style=flat-square" alt="한국특수판매공제조합" />
+<img src="https://img.shields.io/badge/-한국중소벤처기업유통원-1F2A44?style=flat-square" alt="한국중소벤처기업유통원" />
+<img src="https://img.shields.io/badge/-시대에듀-1F2A44?style=flat-square" alt="시대에듀" />
+<img src="https://img.shields.io/badge/-코드하나-B8862F?style=flat-square" alt="코드하나" />
+<img src="https://img.shields.io/badge/-멈블-1F2A44?style=flat-square" alt="멈블" />
+
+</div>
+
+<div align="center"><sub>대기업 서포터즈부터 스타트업, 협회, 국제 NGO, 지자체까지 — 21+ 조직과 협업</sub></div>
+
+<br>
+
+# 🗣️ In My Own Words
+
+> **"기획부터 배포까지, 끝까지 완수하는 실행력"** — 인디 게임 스튜디오를 운영하며 7종의 게임을 기획·개발해 Google Play와 Steam에 정식 출시했습니다. 아이디어에서 멈추지 않고 눈에 보이는 결과물로 만들어내는 게 제 강점입니다.
+
+> **"기술을 이해하는 기획자이자 기획을 이해하는 개발자"** — Python·C++·JavaScript 개발 역량과 MediaPipe·CLIP·FAISS·YOLOv8 AI 파이프라인 경험을 함께 갖추고, 창업 아이템 기획부터 MVP 개발까지 전 과정을 직접 수행합니다.
+
+<div align="center"><sub>전문은 <a href="https://choehanmin.github.io/portfolio/portfolio.pdf">이력서 PDF</a>의 '핵심 강점'에서 확인하실 수 있어요.</sub></div>
 
 <br>
 
@@ -248,6 +302,16 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center"><sub>업데이트되면 <a href="https://m.blog.naver.com/choehanmin">Naver Blog</a>에서 자동으로 최신 글 5개가 여기 채워집니다.</sub></div>
+
+<br>
+
+# 📰 Featured
+
+<div align="center">
+<a href="https://choihanmin.com"><img src="https://img.shields.io/badge/Website_Launches-Listed-1F2A44?style=flat-square" alt="Listed on Website Launches" /></a>
+</div>
+
+<div align="center"><sub>choihanmin.com이 신규 런칭 웹사이트 디렉토리 <a href="https://websitelaunches.com/">Website Launches</a>에 등재되었습니다.</sub></div>
 
 <br>
 
