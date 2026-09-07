@@ -21,7 +21,7 @@
   <!-- node 3: 2023.07 above -->
   <line x1="452" y1="170" x2="452" y2="120" stroke="#B8862F" stroke-width="1.5"/>
   <circle cx="452" cy="170" r="7" fill="#B8862F"/>
-  <text x="452" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#B8862F">2023.07</text>
+  <text x="452" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#8F5F16">2023.07</text>
   <text x="452" y="84" text-anchor="middle" font-size="12" fill="#1F2A44">TOEIC 810</text>
   <text x="452" y="68" text-anchor="middle" font-size="11" fill="#4A4638">Native-level English 검증</text>
 
@@ -35,7 +35,7 @@
   <!-- node 5: 2026.07 above -->
   <line x1="844" y1="170" x2="844" y2="120" stroke="#B8862F" stroke-width="1.5"/>
   <circle cx="844" cy="170" r="7" fill="#B8862F"/>
-  <text x="844" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#B8862F">2026.07</text>
+  <text x="844" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#8F5F16">2026.07</text>
   <text x="844" y="84" text-anchor="middle" font-size="12" fill="#1F2A44">TutoGen</text>
   <text x="844" y="68" text-anchor="middle" font-size="11" fill="#4A4638">하나 소셜벤처 유니버시티 5기</text>
 
@@ -43,7 +43,7 @@
   <line x1="1040" y1="170" x2="1040" y2="220" stroke="#B8862F" stroke-width="2"/>
   <circle cx="1040" cy="170" r="9" fill="#F4F0E6" stroke="#B8862F" stroke-width="2.5"/>
   <circle cx="1040" cy="170" r="3.5" fill="#B8862F"/>
-  <text x="1040" y="240" text-anchor="middle" font-size="13" font-weight="700" fill="#B8862F">NOW</text>
+  <text x="1040" y="240" text-anchor="middle" font-size="13" font-weight="700" fill="#8F5F16">NOW</text>
   <text x="1040" y="256" text-anchor="middle" font-size="12" fill="#1F2A44">게임 7종 출시</text>
   <text x="1040" y="272" text-anchor="middle" font-size="11" fill="#4A4638">23+ 활동 · 21+ 조직</text>
 </svg>

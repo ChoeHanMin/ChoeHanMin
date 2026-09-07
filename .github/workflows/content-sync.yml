@@ -1,4 +1,4 @@
-name: recent activity workflow
+name: content sync workflow
 
 on:
   schedule:
@@ -12,10 +12,17 @@ permissions:
   contents: write
 
 jobs:
-  update-recent-activity:
+  sync-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: pull latest posts from Naver blog RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://rss.blog.naver.com/choehanmin.xml"
+          max_post_count: 5
+          commit_message: "chore: sync blog posts + recent activity [skip ci]"
 
       - name: update recently active repos in README
         uses: actions/github-script@v7

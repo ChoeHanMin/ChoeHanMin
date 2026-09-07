@@ -219,7 +219,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/radar-light.svg" />
-  <img src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/radar.svg" alt="Self-assessed skills radar chart: Execution 95, Leadership 85, Technical 80, Planning 85, Communication 92" width="560" />
+  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/radar.svg" alt="Self-assessed skills radar chart: Execution 95, Leadership 85, Technical 80, Planning 85, Communication 92" />
 </picture>
 </div>
 
@@ -243,16 +243,22 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 <br>
 
-# 🏅 Awards & Certifications
+<details>
+<summary><b>🏅 Awards & Certifications</b> <sub>(click to expand)</sub></summary>
+<br>
 
 - 🥈 한국외국어대학교 여행 공모전 **은상**
 - 🎓 하나금융그룹 '하나 소셜벤처 유니버시티 창업 심화 교육' 수료
 - 🌾 농림축산식품부·한국농어촌공사 농촌 프로그램 전체 **2위** 수료
 - 💬 TOEIC 810 · 한국외국어대학교 영어특별과정 수료 (99.00/100)
 
+</details>
+
 <br>
 
-# 🏢 Trusted By
+<details>
+<summary><b>🏢 Trusted By</b> <sub>(click to expand)</sub></summary>
+<br>
 
 <div align="center">
 
@@ -270,6 +276,8 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 </div>
 
 <div align="center"><sub>대기업 서포터즈부터 스타트업, 협회, 국제 NGO, 지자체까지 — 21+ 조직과 협업</sub></div>
+
+</details>
 
 <br>
 
@@ -312,16 +320,20 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 <br>
 
-# ⭐ Star History
+<details>
+<summary><b>⭐ Star History</b> <sub>(click to expand)</sub></summary>
+<br>
 
 <div align="center">
 <a href="https://star-history.com/#ChoeHanMin/choehanmin.github.io&ChoeHanMin/mini-court&ChoeHanMin/time-heist&Date">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ChoeHanMin/choehanmin.github.io,ChoeHanMin/mini-court,ChoeHanMin/time-heist&type=Date&theme=dark" />
-    <img src="https://api.star-history.com/svg?repos=ChoeHanMin/choehanmin.github.io,ChoeHanMin/mini-court,ChoeHanMin/time-heist&type=Date" alt="Star History Chart" width="600" />
+    <img width="100%" src="https://api.star-history.com/svg?repos=ChoeHanMin/choehanmin.github.io,ChoeHanMin/mini-court,ChoeHanMin/time-heist&type=Date" alt="Star History Chart" />
   </picture>
 </a>
 </div>
+
+</details>
 
 <br>
 
@@ -347,13 +359,17 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 <br>
 
-# 📰 Featured
+<details>
+<summary><b>📰 Featured</b> <sub>(click to expand)</sub></summary>
+<br>
 
 <div align="center">
 <a href="https://choihanmin.com"><img src="https://img.shields.io/badge/Website_Launches-Listed-1F2A44?style=flat-square" alt="Listed on Website Launches" /></a>
 </div>
 
 <div align="center"><sub>choihanmin.com이 신규 런칭 웹사이트 디렉토리 <a href="https://websitelaunches.com/">Website Launches</a>에 등재되었습니다.</sub></div>
+
+</details>
 
 <br>
 

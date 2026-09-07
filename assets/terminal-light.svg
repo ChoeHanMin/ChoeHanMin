@@ -18,7 +18,7 @@
   </text>
   <text x="28" y="160" font-size="18" fill="#4A4638">
     <tspan>인디 게임 스튜디오 </tspan>
-    <tspan fill="#B8862F">Soodal Games</tspan>
+    <tspan fill="#8F5F16">Soodal Games</tspan>
     <tspan> 운영 · 7개 게임 출시</tspan>
   </text>
   <text x="28" y="194" font-size="18" fill="#4A4638">
@@ -41,7 +41,7 @@
     <tspan fill="#1F2A44" dx="8">cat</tspan>
     <tspan fill="#1F2A44" dx="8">motto.txt</tspan>
   </text>
-  <text x="28" y="386" font-size="19" font-weight="700" fill="#B8862F">"안 하고 후회하는 것보다 하고 후회하는 것이 낫다"</text>
+  <text x="28" y="386" font-size="19" font-weight="700" fill="#8F5F16">"안 하고 후회하는 것보다 하고 후회하는 것이 낫다"</text>
 
   <rect x="28" y="394" width="10" height="18" fill="#B8862F">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
