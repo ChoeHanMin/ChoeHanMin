@@ -16,11 +16,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=ChoeHanMin&label=Profile%20Views&color=1F2A44&style=for-the-badge" alt="Profile view count" />
 
+<a id="contact"></a>
 <p>
 <a href="https://choehanmin.github.io/request/"><img src="https://img.shields.io/badge/%F0%9F%93%AC_GET_IN_TOUCH-E3A548?style=for-the-badge&logoColor=1F2A44" alt="Get in touch" /></a>
 </p>
 
 <sub><b>🇰🇷 한국어</b> (current) · <a href="#english-summary">🇺🇸 English ↓</a></sub>
+
+<br><br>
+
+<sub>🔗 <b>Quick nav</b> — <a href="#games">Games</a> · <a href="#projects">Projects</a> · <a href="#stack">Stack</a> · <a href="#timeline">Timeline</a> · <a href="#highlights">Highlights</a> · <a href="#stats">Stats</a> · <a href="#contact">Contact</a></sub>
 
 </div>
 
@@ -35,10 +40,13 @@
 
 <div align="center">
 <sub>🚀 <b>Currently:</b> 해커스 해블리 17기 서포터즈 — 강의·교재 학습 후기 블로그 연재 중</sub>
+<br>
+<sub>🎯 <b>Next:</b> 8번째 게임 준비 중</sub>
 </div>
 
 <br>
 
+<a id="games"></a>
 # 🎮 Shipped Games
 
 <table>
@@ -128,6 +136,7 @@
 
 <br>
 
+<a id="projects"></a>
 # 🧪 Other Projects
 
 게임 외에도 AI·웹 프로젝트를 만들어왔습니다.
@@ -173,6 +182,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 <br>
 
+<a id="stack"></a>
 # 🛠️ Stack
 
 <div align="center">
@@ -181,10 +191,25 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 <br>
 
+<a id="timeline"></a>
 # 📈 Career Timeline
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/timeline.svg" alt="Career timeline: 2020 Soodal Games founded, 2022-23 military service, 2023 TOEIC 810, 2026.03 Samsung Galaxy Campus Supporters and TA, 2026.07 TutoGen at Hana Social Venture University, now shipped 7 games with 23+ activities and 21+ organizations" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/timeline-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/timeline.svg" alt="Career timeline: 2020 Soodal Games founded, 2022-23 military service, 2023 TOEIC 810, 2026.03 Samsung Galaxy Campus Supporters and TA, 2026.07 TutoGen at Hana Social Venture University, now shipped 7 games with 23+ activities and 21+ organizations" />
+</picture>
+</div>
+
+<br>
+
+# 🏗️ Build Pipeline
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/pipeline-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/pipeline.svg" alt="Build pipeline diagram: single HTML/CSS/JS PWA branches into TWA for Android and Electron for desktop, which ship to Google Play and Steam respectively" />
+</picture>
 </div>
 
 <br>
@@ -192,11 +217,15 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 # 📊 Self-Assessed Skills
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/radar.svg" alt="Self-assessed skills radar chart: Execution 95, Leadership 85, Technical 80, Planning 85, Communication 92" width="560" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/radar-light.svg" />
+  <img src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/radar.svg" alt="Self-assessed skills radar chart: Execution 95, Leadership 85, Technical 80, Planning 85, Communication 92" width="560" />
+</picture>
 </div>
 
 <br>
 
+<a id="highlights"></a>
 # 🏆 Highlights
 
 <div align="center">
@@ -254,6 +283,15 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 <br>
 
+# 📌 Recently Active
+
+<!-- RECENT-ACTIVITY:START -->
+_(다음 자동 업데이트 때 최근 활동 레포 5개가 여기 채워집니다)_
+<!-- RECENT-ACTIVITY:END -->
+
+<br>
+
+<a id="stats"></a>
 # 📊 GitHub Stats
 
 <div align="center">

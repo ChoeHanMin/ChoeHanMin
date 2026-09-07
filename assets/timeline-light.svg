@@ -1,0 +1,49 @@
+<svg width="1100" height="340" viewBox="0 0 1100 340" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+  <rect width="1100" height="340" rx="14" fill="#F4F0E6" stroke="#DCD5C4" stroke-width="1.5"/>
+  <text x="550" y="34" text-anchor="middle" font-size="16" font-weight="700" fill="#1F2A44">CAREER TIMELINE</text>
+
+  <line x1="60" y1="170" x2="1040" y2="170" stroke="#C9C2AE" stroke-width="2"/>
+
+  <!-- node 1: 2020 above -->
+  <line x1="60" y1="170" x2="60" y2="120" stroke="#2E8B63" stroke-width="1.5"/>
+  <circle cx="60" cy="170" r="7" fill="#2E8B63"/>
+  <text x="60" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#2E8B63">2020</text>
+  <text x="60" y="84" text-anchor="middle" font-size="12" fill="#1F2A44">Soodal Games</text>
+  <text x="60" y="68" text-anchor="middle" font-size="11" fill="#4A4638">AJ 게임 개발 동아리 시작</text>
+
+  <!-- node 2: 2022-23 below -->
+  <line x1="256" y1="170" x2="256" y2="220" stroke="#8A8474" stroke-width="1.5"/>
+  <circle cx="256" cy="170" r="7" fill="#4A4638"/>
+  <text x="256" y="240" text-anchor="middle" font-size="13" font-weight="700" fill="#4A4638">2022–23</text>
+  <text x="256" y="256" text-anchor="middle" font-size="12" fill="#1F2A44">공군 복무</text>
+  <text x="256" y="272" text-anchor="middle" font-size="11" fill="#4A4638">무선통신체계정비</text>
+
+  <!-- node 3: 2023.07 above -->
+  <line x1="452" y1="170" x2="452" y2="120" stroke="#B8862F" stroke-width="1.5"/>
+  <circle cx="452" cy="170" r="7" fill="#B8862F"/>
+  <text x="452" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#B8862F">2023.07</text>
+  <text x="452" y="84" text-anchor="middle" font-size="12" fill="#1F2A44">TOEIC 810</text>
+  <text x="452" y="68" text-anchor="middle" font-size="11" fill="#4A4638">Native-level English 검증</text>
+
+  <!-- node 4: 2026.03 below -->
+  <line x1="648" y1="170" x2="648" y2="220" stroke="#2E8B63" stroke-width="1.5"/>
+  <circle cx="648" cy="170" r="7" fill="#2E8B63"/>
+  <text x="648" y="240" text-anchor="middle" font-size="13" font-weight="700" fill="#2E8B63">2026.03</text>
+  <text x="648" y="256" text-anchor="middle" font-size="12" fill="#1F2A44">삼성 갤럭시 서포터즈</text>
+  <text x="648" y="272" text-anchor="middle" font-size="11" fill="#4A4638">HUFS 컴퓨팅사고 TA</text>
+
+  <!-- node 5: 2026.07 above -->
+  <line x1="844" y1="170" x2="844" y2="120" stroke="#B8862F" stroke-width="1.5"/>
+  <circle cx="844" cy="170" r="7" fill="#B8862F"/>
+  <text x="844" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#B8862F">2026.07</text>
+  <text x="844" y="84" text-anchor="middle" font-size="12" fill="#1F2A44">TutoGen</text>
+  <text x="844" y="68" text-anchor="middle" font-size="11" fill="#4A4638">하나 소셜벤처 유니버시티 5기</text>
+
+  <!-- node 6: NOW below, highlighted -->
+  <line x1="1040" y1="170" x2="1040" y2="220" stroke="#B8862F" stroke-width="2"/>
+  <circle cx="1040" cy="170" r="9" fill="#F4F0E6" stroke="#B8862F" stroke-width="2.5"/>
+  <circle cx="1040" cy="170" r="3.5" fill="#B8862F"/>
+  <text x="1040" y="240" text-anchor="middle" font-size="13" font-weight="700" fill="#B8862F">NOW</text>
+  <text x="1040" y="256" text-anchor="middle" font-size="12" fill="#1F2A44">게임 7종 출시</text>
+  <text x="1040" y="272" text-anchor="middle" font-size="11" fill="#4A4638">23+ 활동 · 21+ 조직</text>
+</svg>

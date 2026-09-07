@@ -1,0 +1,56 @@
+name: recent activity workflow
+
+on:
+  schedule:
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-recent-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: update recently active repos in README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: 'ChoeHanMin',
+              sort: 'pushed',
+              per_page: 30
+            });
+            const filtered = repos
+              .filter(r => !r.fork && r.name !== 'ChoeHanMin')
+              .slice(0, 5);
+            const lines = filtered.map(r => {
+              const date = new Date(r.pushed_at).toISOString().slice(0, 10);
+              const desc = r.description ? ` — ${r.description}` : '';
+              return `- 🔧 [\`${r.name}\`](${r.html_url})${desc} <sub>(${date})</sub>`;
+            });
+            const block = lines.length ? lines.join('\n') : '_최근 활동 없음_';
+            let readme = fs.readFileSync('README.md', 'utf8');
+            readme = readme.replace(
+              /<!-- RECENT-ACTIVITY:START -->[\s\S]*?<!-- RECENT-ACTIVITY:END -->/,
+              `<!-- RECENT-ACTIVITY:START -->\n${block}\n<!-- RECENT-ACTIVITY:END -->`
+            );
+            fs.writeFileSync('README.md', readme);
+
+      - name: commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- README.md; then
+            git add README.md
+            git commit -m "chore: update recently active repos [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
