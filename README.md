@@ -294,9 +294,9 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 # 📌 Recently Active
 
 <!-- RECENT-ACTIVITY:START -->
-- 🔧 [`choihanmin-website`](https://github.com/ChoeHanMin/choihanmin-website) <sub>(2026-09-08)</sub>
+- 🔧 [`choihanmin-website`](https://github.com/ChoeHanMin/choihanmin-website) <sub>(2026-09-09)</sub>
+- 🔧 [`choehanmin.github.io`](https://github.com/ChoeHanMin/choehanmin.github.io) <sub>(2026-09-09)</sub>
 - 🔧 [`soodalgames-website`](https://github.com/ChoeHanMin/soodalgames-website) <sub>(2026-09-08)</sub>
-- 🔧 [`choehanmin.github.io`](https://github.com/ChoeHanMin/choehanmin.github.io) <sub>(2026-09-08)</sub>
 - 🔧 [`stealth-ops-prototype`](https://github.com/ChoeHanMin/stealth-ops-prototype) — 2D 탑다운 스텔스 특수부대 잠입 게임 프로토타입 - 플래시라이트 시야, 적 AI 감지, 은신 처치 시스템 <sub>(2026-08-31)</sub>
 - 🔧 [`color-debt`](https://github.com/ChoeHanMin/color-debt) <sub>(2026-08-27)</sub>
 <!-- RECENT-ACTIVITY:END -->
