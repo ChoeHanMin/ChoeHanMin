@@ -348,11 +348,11 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 # 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[굿네이버스] SDGs PROJECT [ZERO] 첫 번째 활동 후기 – 잔반 ZERO](https://blog.naver.com/choehanmin/224429322719?fromRss=true&trackingCode=rss)
 - [약 400페이지 GDD를 들고 무작정 로스쿨 교수님 찾아간 미친 사람, 나야 나 -  미니법정&lpar;Mini Court&rpar; 개발기](https://blog.naver.com/choehanmin/224428483157?fromRss=true&trackingCode=rss)
 - [해커스캠퍼스 업무자동화 교육 4주 완주, 오픈클로 독학 후기로 마무리](https://blog.naver.com/choehanmin/224428415205?fromRss=true&trackingCode=rss)
 - [세이브더칠드런 아동권리영화제, 이번엔 한강에서 만난다고?](https://blog.naver.com/choehanmin/224427990739?fromRss=true&trackingCode=rss)
 - [해커스 오픈클로 인강으로 실습해본 AI CS 자동화, 이렇게 만들었어요](https://blog.naver.com/choehanmin/224421236033?fromRss=true&trackingCode=rss)
-- [다단계 아니에요? AI한테 직접 물어봤습니다 &lpar;feat. KOSSA톡&rpar;](https://blog.naver.com/choehanmin/224420832093?fromRss=true&trackingCode=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center"><sub>업데이트되면 <a href="https://m.blog.naver.com/choehanmin">Naver Blog</a>에서 자동으로 최신 글 5개가 여기 채워집니다.</sub></div>
