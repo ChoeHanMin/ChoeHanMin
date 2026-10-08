@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-<sub>🚀 <b>Currently:</b> 해커스 해블리 17기 서포터즈 — 강의·교재 학습 후기 블로그 연재 중</sub>
+<sub>🚀 <b>Currently:</b> 굿네이버스 SDGs PROJECT[ZERO] 지속가능개발협력 서포터즈 — SDGs 목표 6가지 실천 준비 중</sub>
 <br>
 <sub>🎯 <b>Next:</b> 8번째 게임 준비 중</sub>
 </div>
