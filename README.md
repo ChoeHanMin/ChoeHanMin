@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1F2A44,100:B8862F&text=Choi%20Hanmin&fontColor=FFFFFF&fontSize=55&animation=fadeIn&desc=Soodal%20Games%20%C2%B7%20Indie%20Game%20Developer&descAlignY=62&descSize=20&fontAlignY=35" alt="Choi Hanmin — Soodal Games, Indie Game Developer" />
 
 <a href="https://www.choihanmin.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=B8862F&center=true&vCenter=true&width=800&height=50&lines=CS+Student+%40+HUFS;Running+indie+studio+Soodal+Games;7+games+shipped+%C2%B7+Google+Play+%26+Steam;33%2B+activities+%C2%B7+21%2B+organizations" alt="CS Student at HUFS, running indie studio Soodal Games, 7 games shipped on Google Play and Steam, 33+ activities and 21+ organizations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=B8862F&center=true&vCenter=true&width=800&height=50&lines=CS+Student+%40+HUFS;Running+indie+studio+Soodal+Games;7+games+shipped+%C2%B7+Google+Play+%26+Steam;33%2B+activities+%C2%B7+33%2B+organizations" alt="CS Student at HUFS, running indie studio Soodal Games, 7 games shipped on Google Play and Steam, 33+ activities and 33+ organizations" />
 </a>
 
 <p>
@@ -34,7 +34,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal.svg" alt="Terminal window: whoami shows Choi Hanmin, Computer Engineering & Science at HUFS, running Soodal Games, 7 games shipped, 33+ activities with 21+ organizations" />
+  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal.svg" alt="Terminal window: whoami shows Choi Hanmin, Computer Engineering & Science at HUFS, running Soodal Games, 7 games shipped, 33+ activities with 33+ organizations" />
 </picture>
 </div>
 
@@ -197,7 +197,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/timeline-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/timeline.svg" alt="Career timeline: 2020 Soodal Games founded, 2022-23 military service, 2023 TOEIC 810, 2026.03 Samsung Galaxy Campus Supporters and TA, 2026.07 TutoGen at Hana Social Venture University, now shipped 7 games with 33+ activities and 21+ organizations" />
+  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/timeline.svg" alt="Career timeline: 2020 Soodal Games founded, 2022-23 military service, 2023 TOEIC 810, 2026.03 Samsung Galaxy Campus Supporters and TA, 2026.07 TutoGen at Hana Social Venture University, now shipped 7 games with 33+ activities and 33+ organizations" />
 </picture>
 </div>
 
@@ -231,7 +231,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 <div align="center">
 
 <img src="https://img.shields.io/badge/%F0%9F%8E%AE_GAMES_SHIPPED-7-1F2A44?style=for-the-badge" alt="7 games shipped" />
-<img src="https://img.shields.io/badge/%F0%9F%A4%9D_ORGANIZATIONS-21%2B-B8862F?style=for-the-badge" alt="21+ organizations collaborated with" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%9D_ORGANIZATIONS-33%2B-B8862F?style=for-the-badge" alt="33+ organizations collaborated with" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8B_ACTIVITIES-33%2B-1F2A44?style=for-the-badge" alt="33+ activities" />
 <img src="https://img.shields.io/badge/%F0%9F%8C%8F_ENGLISH-NATIVE-B8862F?style=for-the-badge" alt="Native-level English" />
 
@@ -278,10 +278,18 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 <img src="https://img.shields.io/badge/-시대에듀-1F2A44?style=flat-square" alt="시대에듀" />
 <img src="https://img.shields.io/badge/-코드하나-B8862F?style=flat-square" alt="코드하나" />
 <img src="https://img.shields.io/badge/-멈블-1F2A44?style=flat-square" alt="멈블" />
+<img src="https://img.shields.io/badge/-인텔-B8862F?style=flat-square" alt="인텔" />
+<img src="https://img.shields.io/badge/-스링-1F2A44?style=flat-square" alt="스링" />
+<img src="https://img.shields.io/badge/-나도기브-B8862F?style=flat-square" alt="나도기브" />
+<img src="https://img.shields.io/badge/-블라인드-1F2A44?style=flat-square" alt="블라인드" />
+<img src="https://img.shields.io/badge/-굿네이버스-B8862F?style=flat-square" alt="굿네이버스" />
+<img src="https://img.shields.io/badge/-세이브더칠드런-1F2A44?style=flat-square" alt="세이브더칠드런" />
+<img src="https://img.shields.io/badge/-법무법인_해율-B8862F?style=flat-square" alt="법무법인 해율" />
+<img src="https://img.shields.io/badge/-LilysAI-1F2A44?style=flat-square" alt="LilysAI" />
 
 </div>
 
-<div align="center"><sub>대기업 서포터즈부터 스타트업, 협회, 국제 NGO, 지자체까지 — 21+ 조직과 협업</sub></div>
+<div align="center"><sub>대기업 서포터즈부터 스타트업, 협회, 국제 NGO, 지자체까지 — 33+ 조직과 협업</sub></div>
 
 </details>
 
@@ -345,7 +353,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 # 🤝 Collaborations
 
-**하나금융그룹, 삼성전자, LG CNS** 등 대기업 서포터즈부터 스타트업, 협회, 국제 NGO, 지자체까지 — 업종과 규모를 가리지 않는 **21+ 조직**과 함께 일해왔고, **33건 이상**의 대내외 활동/자원봉사 이력이 있습니다.
+**하나금융그룹, 삼성전자, LG CNS, 인텔** 등 대기업 서포터즈부터 시대에듀·코드하나·멈블·스링·나도기브·블라인드 등 스타트업, 한국특수판매공제조합·한국중소벤처기업유통원·LiNK·굿네이버스·세이브더칠드런과 같은 협회·공공기관 및 국제 NGO, 서울시 등 지자체, 법무법인 해율과 같은 전문 서비스 기업, LilysAI 같은 AI 스타트업까지 — 업종과 규모를 가리지 않는 **33+ 조직**과 함께 일해왔고, **33건 이상**의 대내외 활동/자원봉사 이력이 있습니다.
 
 자세한 내용은 **[Activities & Volunteer](https://www.choihanmin.com/portfolio/#activities)** 에서 확인하실 수 있어요.
 
@@ -396,7 +404,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 **Choi Hanmin** — Computer Engineering & Science student at Hankuk University of Foreign Studies (HUFS), running the indie game studio **Soodal Games**.
 
-I've shipped **7 games** to Google Play & Steam (single HTML/CSS/JS PWA → TWA/Electron build pipeline), while working as a leader or core member across **33+ activities** with **21+ organizations** — from Samsung, Hana Financial Group and LG CNS corporate ambassador programs to startups, NGOs, and government-affiliated institutions.
+I've shipped **7 games** to Google Play & Steam (single HTML/CSS/JS PWA → TWA/Electron build pipeline), while working as a leader or core member across **33+ activities** with **33+ organizations** — from Samsung, Hana Financial Group, LG CNS and Intel corporate ambassador programs to startups like Mumble, Thling and Blind, NGOs like Good Neighbors, Save the Children and LiNK, a law firm (Haeyul), an AI startup (LilysAI), and government-affiliated institutions.
 
 **Key strengths**
 - 🚀 **Execution, idea to launch** — designed, built, and shipped 7 games solo end-to-end (planning → art/sound → mobile packaging → store listing → marketing), plus a full AI MVP (TutoGen) from market research to demo pitch.
