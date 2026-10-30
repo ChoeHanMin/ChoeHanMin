@@ -247,7 +247,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 </div>
 
 <div align="center">
-<a href="https://choehanmin.github.io/portfolio/portfolio.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84_VIEW_FULL_RESUME-1F2A44?style=for-the-badge" alt="View full résumé PDF" /></a>
+<a href="https://choehanmin.github.io/portfolio/portfolio.pdf?v=20261030"><img src="https://img.shields.io/badge/%F0%9F%93%84_VIEW_FULL_RESUME-1F2A44?style=for-the-badge" alt="View full résumé PDF" /></a>
 </div>
 
 <br>
@@ -310,7 +310,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 > **"기술을 이해하는 기획자이자 기획을 이해하는 개발자"** — Python·C++·JavaScript 개발 역량과 MediaPipe·CLIP·FAISS·YOLOv8 AI 파이프라인 경험을 함께 갖추고, 창업 아이템 기획부터 MVP 개발까지 전 과정을 직접 수행합니다.
 
-<div align="center"><sub>전문은 <a href="https://choehanmin.github.io/portfolio/portfolio.pdf">이력서 PDF</a>의 '핵심 강점'에서 확인하실 수 있어요.</sub></div>
+<div align="center"><sub>전문은 <a href="https://choehanmin.github.io/portfolio/portfolio.pdf?v=20261030">이력서 PDF</a>의 '핵심 강점'에서 확인하실 수 있어요.</sub></div>
 
 <br>
 
@@ -424,7 +424,7 @@ I've shipped **7 games** to Google Play & Steam (single HTML/CSS/JS PWA → TWA/
 
 **Tech stack:** Python · C++ · C · JavaScript · HTML/CSS · Electron · Android (TWA) · MediaPipe/CLIP/FAISS/YOLOv8 · Figma · Illustrator · Photoshop · Git/GitHub
 
-📄 [Full résumé (PDF)](https://choehanmin.github.io/portfolio/portfolio.pdf) · 🌐 [Portfolio site](https://www.choihanmin.com/) · 🎮 [Soodal Games](https://www.soodalgames.com/)
+📄 [Full résumé (PDF)](https://choehanmin.github.io/portfolio/portfolio.pdf?v=20261030) · 🌐 [Portfolio site](https://www.choihanmin.com/) · 🎮 [Soodal Games](https://www.soodalgames.com/)
 
 <div align="center">
 <sub><a href="#top">↑ back to top / 한국어로 돌아가기</a></sub>
