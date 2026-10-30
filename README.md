@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1F2A44,100:B8862F&text=Choi%20Hanmin&fontColor=FFFFFF&fontSize=55&animation=fadeIn&desc=Soodal%20Games%20%C2%B7%20Indie%20Game%20Developer&descAlignY=62&descSize=20&fontAlignY=35" alt="Choi Hanmin — Soodal Games, Indie Game Developer" />
 
 <a href="https://www.choihanmin.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=B8862F&center=true&vCenter=true&width=800&height=50&lines=CS+Student+%40+HUFS;Running+indie+studio+Soodal+Games;7+games+shipped+%C2%B7+Google+Play+%26+Steam;23%2B+activities+%C2%B7+21%2B+organizations" alt="CS Student at HUFS, running indie studio Soodal Games, 7 games shipped on Google Play and Steam, 23+ activities and 21+ organizations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=B8862F&center=true&vCenter=true&width=800&height=50&lines=CS+Student+%40+HUFS;Running+indie+studio+Soodal+Games;7+games+shipped+%C2%B7+Google+Play+%26+Steam;33%2B+activities+%C2%B7+21%2B+organizations" alt="CS Student at HUFS, running indie studio Soodal Games, 7 games shipped on Google Play and Steam, 33+ activities and 21+ organizations" />
 </a>
 
 <p>
@@ -34,12 +34,12 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal.svg" alt="Terminal window: whoami shows Choi Hanmin, Computer Engineering & Science at HUFS, running Soodal Games, 7 games shipped, 23+ activities with 21+ organizations" />
+  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/terminal.svg" alt="Terminal window: whoami shows Choi Hanmin, Computer Engineering & Science at HUFS, running Soodal Games, 7 games shipped, 33+ activities with 21+ organizations" />
 </picture>
 </div>
 
 <div align="center">
-<sub>🚀 <b>Currently:</b> 굿네이버스 SDGs PROJECT[ZERO] 지속가능개발협력 서포터즈 — SDGs 목표 6가지 실천 준비 중</sub>
+<sub>🚀 <b>Currently:</b> 블라인드 캠퍼스 서포터즈 1기 — 홍보 콘텐츠 제작 및 현직자 Q&A 진행 중</sub>
 <br>
 <sub>🎯 <b>Next:</b> 8번째 게임 준비 중</sub>
 </div>
@@ -197,7 +197,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/timeline-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/timeline.svg" alt="Career timeline: 2020 Soodal Games founded, 2022-23 military service, 2023 TOEIC 810, 2026.03 Samsung Galaxy Campus Supporters and TA, 2026.07 TutoGen at Hana Social Venture University, now shipped 7 games with 23+ activities and 21+ organizations" />
+  <img width="100%" src="https://raw.githubusercontent.com/ChoeHanMin/ChoeHanMin/main/assets/timeline.svg" alt="Career timeline: 2020 Soodal Games founded, 2022-23 military service, 2023 TOEIC 810, 2026.03 Samsung Galaxy Campus Supporters and TA, 2026.07 TutoGen at Hana Social Venture University, now shipped 7 games with 33+ activities and 21+ organizations" />
 </picture>
 </div>
 
@@ -232,7 +232,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 <img src="https://img.shields.io/badge/%F0%9F%8E%AE_GAMES_SHIPPED-7-1F2A44?style=for-the-badge" alt="7 games shipped" />
 <img src="https://img.shields.io/badge/%F0%9F%A4%9D_ORGANIZATIONS-21%2B-B8862F?style=for-the-badge" alt="21+ organizations collaborated with" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8B_ACTIVITIES-23%2B-1F2A44?style=for-the-badge" alt="23+ activities" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8B_ACTIVITIES-33%2B-1F2A44?style=for-the-badge" alt="33+ activities" />
 <img src="https://img.shields.io/badge/%F0%9F%8C%8F_ENGLISH-NATIVE-B8862F?style=for-the-badge" alt="Native-level English" />
 
 </div>
@@ -247,9 +247,15 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 <summary><b>🏅 Awards & Certifications</b> <sub>(click to expand)</sub></summary>
 <br>
 
-- 🥈 한국외국어대학교 여행 공모전 **은상**
+- 🏆 한국특수판매공제조합 K-애디터즈 서포터즈 8기 **우수상** 수상, 상금 수여
+- 🏅 멈블 앰버서더 5기 공모전 **최우수상** 수상
+- 🤖 굿네이버스 AI 캠페인 크리에이터 2기 — 100점 만점에 90점, 우수 아이디어로 선정
+- 💻 Code Master 여름 알고리즘 캠프 참여 후 수료
 - 🎓 하나금융그룹 '하나 소셜벤처 유니버시티 창업 심화 교육' 수료
 - 🌾 농림축산식품부·한국농어촌공사 농촌 프로그램 전체 **2위** 수료
+- 💼 고용노동부 주관 '청년 일경험 지원사업' 수료
+- 🧠 AI 상상그라운드 상상클래스 수료 (KT&G 주최)
+- 🥈 한국외국어대학교 여행 공모전 **은상**
 - 💬 TOEIC 810 · 한국외국어대학교 영어특별과정 수료 (99.00/100)
 
 </details>
@@ -339,7 +345,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 # 🤝 Collaborations
 
-**하나금융그룹, 삼성전자, LG CNS** 등 대기업 서포터즈부터 스타트업, 협회, 국제 NGO, 지자체까지 — 업종과 규모를 가리지 않는 **21+ 조직**과 함께 일해왔고, **23건 이상**의 대내외 활동/자원봉사 이력이 있습니다.
+**하나금융그룹, 삼성전자, LG CNS** 등 대기업 서포터즈부터 스타트업, 협회, 국제 NGO, 지자체까지 — 업종과 규모를 가리지 않는 **21+ 조직**과 함께 일해왔고, **33건 이상**의 대내외 활동/자원봉사 이력이 있습니다.
 
 자세한 내용은 **[Activities & Volunteer](https://www.choihanmin.com/portfolio/#activities)** 에서 확인하실 수 있어요.
 
@@ -390,7 +396,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 **Choi Hanmin** — Computer Engineering & Science student at Hankuk University of Foreign Studies (HUFS), running the indie game studio **Soodal Games**.
 
-I've shipped **7 games** to Google Play & Steam (single HTML/CSS/JS PWA → TWA/Electron build pipeline), while working as a leader or core member across **23+ activities** with **21+ organizations** — from Samsung, Hana Financial Group and LG CNS corporate ambassador programs to startups, NGOs, and government-affiliated institutions.
+I've shipped **7 games** to Google Play & Steam (single HTML/CSS/JS PWA → TWA/Electron build pipeline), while working as a leader or core member across **33+ activities** with **21+ organizations** — from Samsung, Hana Financial Group and LG CNS corporate ambassador programs to startups, NGOs, and government-affiliated institutions.
 
 **Key strengths**
 - 🚀 **Execution, idea to launch** — designed, built, and shipped 7 games solo end-to-end (planning → art/sound → mobile packaging → store listing → marketing), plus a full AI MVP (TutoGen) from market research to demo pitch.
