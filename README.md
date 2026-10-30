@@ -143,7 +143,16 @@
 
 <table>
 <tr>
-<td align="center" width="180"><img src="https://choehanmin.github.io/portfolio/shots/tutogen.jpg" width="160" alt="TutoGen project screenshot"/></td>
+<td align="center" width="180"><img src="https://choehanmin.github.io/portfolio/shots/hufslovers.jpg" width="160" alt="훕스러버스(HUFSLOVERS) app screenshot"/></td>
+<td>
+
+### 훕스러버스 <sub>HUFSLOVERS</sub>
+한국외대 서울·글로벌캠퍼스 학생 전용 매칭 웹앱. 학교 메일 인증, 관심사·MBTI 기반 매칭 알고리즘, 실시간 채팅, 단계적 공개·신고/차단 등 안전장치까지 기획·디자인·개발·배포·운영 1인 수행, 무료 플랜만으로 실서비스 중 ([hufslovers.vercel.app](https://hufslovers.vercel.app)).
+
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://choehanmin.github.io/portfolio/shots/tutogen.jpg" width="160" alt="TutoGen project screenshot"/></td>
 <td>
 
 ### TutoGen
