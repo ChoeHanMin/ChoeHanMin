@@ -247,7 +247,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 </div>
 
 <div align="center">
-<a href="https://choehanmin.github.io/portfolio/portfolio.pdf?v=20261030b"><img src="https://img.shields.io/badge/%F0%9F%93%84_VIEW_FULL_RESUME-1F2A44?style=for-the-badge" alt="View full résumé PDF" /></a>
+<a href="https://choehanmin.github.io/portfolio/portfolio.pdf?v=20261031"><img src="https://img.shields.io/badge/%F0%9F%93%84_VIEW_FULL_RESUME-1F2A44?style=for-the-badge" alt="View full résumé PDF" /></a>
 </div>
 
 <br>
@@ -256,6 +256,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 <summary><b>🏅 Awards & Certifications</b> <sub>(click to expand)</sub></summary>
 <br>
 
+- 🏄 윈드서핑 지도자 자격증 3급 취득
 - 🏅 멈블 앰버서더 5기 공모전 **최우수상** 수상
 - 🏆 한국특수판매공제조합 K-애디터즈 서포터즈 8기 **우수상** 수상, 상금 수여
 - 🤖 굿네이버스 AI 캠페인 크리에이터 2기 — 100점 만점에 90점, 우수 아이디어로 선정
@@ -266,6 +267,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 - 🧠 AI 상상그라운드 상상클래스 수료 (KT&G 주최)
 - 🥈 한국외국어대학교 여행 공모전 **은상**
 - 💬 TOEIC 810 · 한국외국어대학교 영어특별과정 수료 (99.00/100)
+- 🚗 운전면허증(2종보통) 취득
 
 </details>
 
@@ -310,7 +312,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 
 > **"기술을 이해하는 기획자이자 기획을 이해하는 개발자"** — Python·C++·JavaScript 개발 역량과 MediaPipe·CLIP·FAISS·YOLOv8 AI 파이프라인 경험을 함께 갖추고, 창업 아이템 기획부터 MVP 개발까지 전 과정을 직접 수행합니다.
 
-<div align="center"><sub>전문은 <a href="https://choehanmin.github.io/portfolio/portfolio.pdf?v=20261030b">이력서 PDF</a>의 '핵심 강점'에서 확인하실 수 있어요.</sub></div>
+<div align="center"><sub>전문은 <a href="https://choehanmin.github.io/portfolio/portfolio.pdf?v=20261031">이력서 PDF</a>의 '핵심 강점'에서 확인하실 수 있어요.</sub></div>
 
 <br>
 
@@ -424,7 +426,7 @@ I've shipped **7 games** to Google Play & Steam (single HTML/CSS/JS PWA → TWA/
 
 **Tech stack:** Python · C++ · C · JavaScript · HTML/CSS · Electron · Android (TWA) · MediaPipe/CLIP/FAISS/YOLOv8 · Figma · Illustrator · Photoshop · Git/GitHub
 
-📄 [Full résumé (PDF)](https://choehanmin.github.io/portfolio/portfolio.pdf?v=20261030b) · 🌐 [Portfolio site](https://www.choihanmin.com/) · 🎮 [Soodal Games](https://www.soodalgames.com/)
+📄 [Full résumé (PDF)](https://choehanmin.github.io/portfolio/portfolio.pdf?v=20261031) · 🌐 [Portfolio site](https://www.choihanmin.com/) · 🎮 [Soodal Games](https://www.soodalgames.com/)
 
 <div align="center">
 <sub><a href="#top">↑ back to top / 한국어로 돌아가기</a></sub>
