@@ -320,11 +320,11 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 # 📌 Recently Active
 
 <!-- RECENT-ACTIVITY:START -->
+- 🔧 [`ghost-relay`](https://github.com/ChoeHanMin/ghost-relay) <sub>(2026-11-20)</sub>
+- 🔧 [`choehanmin.github.io`](https://github.com/ChoeHanMin/choehanmin.github.io) <sub>(2026-11-20)</sub>
 - 🔧 [`color-debt`](https://github.com/ChoeHanMin/color-debt) <sub>(2026-11-18)</sub>
 - 🔧 [`maze-escape`](https://github.com/ChoeHanMin/maze-escape) — 미로 탈출 - 랜덤 생성 미로 탈출 게임 <sub>(2026-11-18)</sub>
 - 🔧 [`stress-smash`](https://github.com/ChoeHanMin/stress-smash) <sub>(2026-11-18)</sub>
-- 🔧 [`stealth-ops-prototype`](https://github.com/ChoeHanMin/stealth-ops-prototype) — 2D 탑다운 스텔스 특수부대 잠입 게임 프로토타입 - 플래시라이트 시야, 적 AI 감지, 은신 처치 시스템 <sub>(2026-11-18)</sub>
-- 🔧 [`applicatio`](https://github.com/ChoeHanMin/applicatio) — application setting <sub>(2026-11-13)</sub>
 <!-- RECENT-ACTIVITY:END -->
 
 <br>
