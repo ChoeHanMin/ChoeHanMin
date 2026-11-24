@@ -320,7 +320,7 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 # 📌 Recently Active
 
 <!-- RECENT-ACTIVITY:START -->
-- 🔧 [`Tiptoe-Tower`](https://github.com/ChoeHanMin/Tiptoe-Tower) <sub>(2026-11-23)</sub>
+- 🔧 [`Tiptoe-Tower`](https://github.com/ChoeHanMin/Tiptoe-Tower) <sub>(2026-11-24)</sub>
 - 🔧 [`ghost-relay`](https://github.com/ChoeHanMin/ghost-relay) <sub>(2026-11-20)</sub>
 - 🔧 [`choehanmin.github.io`](https://github.com/ChoeHanMin/choehanmin.github.io) <sub>(2026-11-20)</sub>
 - 🔧 [`color-debt`](https://github.com/ChoeHanMin/color-debt) <sub>(2026-11-18)</sub>
