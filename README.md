@@ -320,11 +320,11 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 # 📌 Recently Active
 
 <!-- RECENT-ACTIVITY:START -->
+- 🔧 [`choihanmin-website`](https://github.com/ChoeHanMin/choihanmin-website) <sub>(2026-11-25)</sub>
+- 🔧 [`BugHunter`](https://github.com/ChoeHanMin/BugHunter) <sub>(2026-11-25)</sub>
+- 🔧 [`applicatio`](https://github.com/ChoeHanMin/applicatio) — application setting <sub>(2026-11-25)</sub>
+- 🔧 [`ghost-relay`](https://github.com/ChoeHanMin/ghost-relay) <sub>(2026-11-25)</sub>
 - 🔧 [`Tiptoe-Tower`](https://github.com/ChoeHanMin/Tiptoe-Tower) <sub>(2026-11-24)</sub>
-- 🔧 [`ghost-relay`](https://github.com/ChoeHanMin/ghost-relay) <sub>(2026-11-20)</sub>
-- 🔧 [`choehanmin.github.io`](https://github.com/ChoeHanMin/choehanmin.github.io) <sub>(2026-11-20)</sub>
-- 🔧 [`color-debt`](https://github.com/ChoeHanMin/color-debt) <sub>(2026-11-18)</sub>
-- 🔧 [`maze-escape`](https://github.com/ChoeHanMin/maze-escape) — 미로 탈출 - 랜덤 생성 미로 탈출 게임 <sub>(2026-11-18)</sub>
 <!-- RECENT-ACTIVITY:END -->
 
 <br>
