@@ -320,9 +320,9 @@ Flappy Bird 스타일의 Canvas 2D 아케이드 게임. 4종 캐릭터와 히든
 # 📌 Recently Active
 
 <!-- RECENT-ACTIVITY:START -->
+- 🔧 [`PatchSquad`](https://github.com/ChoeHanMin/PatchSquad) <sub>(2026-11-27)</sub>
 - 🔧 [`choehanmin.github.io`](https://github.com/ChoeHanMin/choehanmin.github.io) <sub>(2026-11-27)</sub>
 - 🔧 [`choihanmin-website`](https://github.com/ChoeHanMin/choihanmin-website) <sub>(2026-11-27)</sub>
-- 🔧 [`PatchSquad`](https://github.com/ChoeHanMin/PatchSquad) <sub>(2026-11-27)</sub>
 - 🔧 [`BugHunter`](https://github.com/ChoeHanMin/BugHunter) <sub>(2026-11-27)</sub>
 - 🔧 [`soodalgames-website`](https://github.com/ChoeHanMin/soodalgames-website) <sub>(2026-11-27)</sub>
 <!-- RECENT-ACTIVITY:END -->
